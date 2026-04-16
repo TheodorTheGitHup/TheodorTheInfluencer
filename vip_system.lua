@@ -1,5 +1,5 @@
 -- VIP SYSTEM BY THEODOR
--- CHANGE THIS GAMEPASS ID
+-- CHANGE THE GAMEPASS ID UNDER THIS
 
 local Players = game:GetService("Players")
 local MarketplaceService = game:GetService("MarketplaceService")
